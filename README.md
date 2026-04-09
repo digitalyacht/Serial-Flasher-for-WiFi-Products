@@ -46,4 +46,4 @@ Assuming the update is successful you should see the following text appear in th
 <img src="https://raw.githubusercontent.com/digitalyacht/Serial-Flasher-for-WiFi-Products/refs/heads/main/images/Completed.png" width=100%>
 <br>
 
-Now you can remove the programming cable, power cycle the updated unit, perform a facory reset (always recommended after a major update) by pressing and holding he RESET button on the unit for >10 seconds and when the unit powers back up you will be able to see the new firmware version number in the unit's web interface SETTINGS page (About section).  
+Now you can remove the programming cable, power cycle the updated unit, perform a facory reset (always recommended after a major update) by pressing and holding the RESET button on the unit for >10 seconds and when the unit powers back up you will be able to see the new firmware version number in the unit's web interface SETTINGS page (About section).  

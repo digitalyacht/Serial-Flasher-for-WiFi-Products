@@ -4,7 +4,7 @@ All of our wireless products feature a web interface where firmware updates can 
 
 To make this programming experience as simple as possible and also to allow it to be done on any hardware platform (Windows/MacOSX/LINUX) we have developed this web app that will run on any modern browser that supports the Web Serial API, which currently are Chrome, Chromium, Opera and Edge.
 
-Download and extract the ZIP file and then double click on the index.html file and you should see the web app landing page...
+Download and extract the "Serial Flasher for WiFi Products Web App V1-0-0.zip" file included in this repo and then double click on the index.html file and you should see the web app landing page...
 
 <br>
 <img src="https://raw.githubusercontent.com/digitalyacht/Serial-Flasher-for-WiFi-Products/refs/heads/main/images/Landing_Page.png" width=100%>
